@@ -15,4 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrazilianSoilsMicrobiome)](https://github.com/anuraghazra/github-readme-stats)
+</details>
+<en>
+
+<details open>
+ <summary><b> Github Stats & Programming Languages:</b> </summary>  
+
+<en>
+
+<p align = "left">
+ <img src = "https://github-readme-stats.vercel.app/api?username=BrazilianSoilsMicrobiome&show_icons=true&theme=">
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrazilianSoilsMicrobiome&theme=&show_icons=true&hide_border=true" />
+</p>
+<en/>
